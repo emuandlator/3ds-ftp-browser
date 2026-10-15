@@ -4,21 +4,21 @@ Browse and manage the SD card on a modded 3DS from your computer's web browser, 
 
 It's one Python file with no extra packages to install.
 
-![The file browser connected to a 3DS SD card](https://github.com/user-attachments/assets/1ecd4f14-651d-4ef6-bd33-b3e0a0debcdd)
+![The file browser connected to a 3DS SD card](https://github.com/user-attachments/assets/0d8045ac-4e08-44ba-98ba-966971a31e0a)
 
 ## Screenshots
 
 Connecting to the 3DS:
 
-![Connect screen](https://github.com/user-attachments/assets/2091e0e1-484b-4612-9620-a1137d89685e)
+![Connect screen](https://github.com/user-attachments/assets/4c8f317d-66da-4a1f-9c4c-6acab9a2b903)
 
 Previewing an image from the SD card:
 
-![File preview](https://github.com/user-attachments/assets/646f08c4-1cd5-4a53-9152-7abb15583d20)
+![File preview](https://github.com/user-attachments/assets/cb79305a-3031-4420-a83d-969c45b9d87c)
 
 All screenshots and photos in one place:
 
-![Screenshots and photos view](https://github.com/user-attachments/assets/d74b3891-50f3-43f7-8b79-af82209f39b2)
+![Screenshots and photos view](https://github.com/user-attachments/assets/c074c4c8-267e-48f2-aadd-cb17e6f30cc9)
 
 The screenshots show sample files, not a real SD card.
 
